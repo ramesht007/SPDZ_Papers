@@ -11,3 +11,5 @@ SPDZ 2^k: https://eprint.iacr.org/2018/482.pdf
 Overdrive: https://eprint.iacr.org/2017/1230.pdf
 
 Actively Secure Setup for SPDZ: https://eprint.iacr.org/2019/1300.pdf
+
+Combinbinig BMR and SPDZ: https://link.springer.com/content/pdf/10.1007/s00145-019-09322-2.pdf
